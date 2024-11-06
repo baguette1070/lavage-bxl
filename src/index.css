@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.taille-box-voiture{
+  height: 600px;
+}
+.taille-distance-faq-contact{
+  height: 500px;
+}
